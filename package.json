@@ -1,0 +1,24 @@
+{
+  "name": "loop-ai-dashboard",
+  "version": "0.1.0",
+  "description": "AI-powered email productivity dashboard for college students",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "vitest"
+  },
+  "keywords": [
+    "ai",
+    "email",
+    "productivity",
+    "dashboard",
+    "students"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
